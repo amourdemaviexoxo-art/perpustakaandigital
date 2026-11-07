@@ -13,7 +13,8 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [The Dragon Republic](ebook/The Dragon Republic.pdf) – R.F. Kuang (2019)
 9. [I'll be Your Wife](ebook/I'll be Your Wife.pdf) – Jho Hyo Eun (2016)
 10. [Caraval](ebook/Caraval.pdf) – Stephanie Garber (2016)
-11. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
+11. [Rona hidup Rona](ebook/Rona hidup Rona.pdf) – Mia Arsjad (2020)
+12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
 
 
 ---
