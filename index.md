@@ -1,5 +1,6 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital ☆*: .o(≧▽≦)o .:*☆
+
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 1. [Big Data di Perpustakaan dengan Memanfaatkan Data Mining](ebook/Big Data di Perpustakaan dengan Memanfaatkan Data Mining.pdf) – Athanasia (2020)
@@ -8,7 +9,8 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Convenience Store Woman](ebook/Convenience Store Woman.pdf) – Murata Sayaka (2016)
 5. [Laut Bercerita](ebook/Laut Bercerita.pdf) – Leila S. Chudori (2017)
 6. [Kesatria, Putri & Bintang Jatuh](ebook/Kesatria, Putri & Bintang Jatuh.pdf) – Dee Lestari (2001)
-7. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
+7. [The Poppy War](ebook/The Poppy War.pdf) – R.F. Kuang (2018)
+8. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
 
 
 ---
