@@ -12,7 +12,9 @@ Berikut ini adalah koleksi yang dimiliki:
 7. [The Poppy War](ebook/The Poppy War.pdf) – R.F. Kuang (2018)
 8. [The Dragon Republic](ebook/The Dragon Republic.pdf) – R.F. Kuang (2019)
 9. [I'll be Your Wife](ebook/I'll be Your Wife.pdf) – Jho Hyo Eun (2016)
-10. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
+10. [Caraval](ebook/Caraval.pdf) – Stephanie Garber (2016)
+11. [Caraval #2 - Legendary ](ebook/Caraval #2 - Legendary .pdf) – Stephanie Garber (2018)
+12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
 
 
 ---
