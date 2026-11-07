@@ -1,5 +1,5 @@
 # Digital Library
-Selamat Datang di Perpustakaan Digital ☆*: .o(≧▽≦)o .:*☆
+Selamat Datang di Perpustakaan Digital milik Najwa Rasya Andini — 13040124130055 ☆*: .o(≧▽≦)o .:*☆
 
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
@@ -11,7 +11,8 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Kesatria, Putri & Bintang Jatuh](ebook/Kesatria, Putri & Bintang Jatuh.pdf) – Dee Lestari (2001)
 7. [The Poppy War](ebook/The Poppy War.pdf) – R.F. Kuang (2018)
 8. [The Dragon Republic](ebook/The Dragon Republic.pdf) – R.F. Kuang (2019)
-9. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
+9. [I'll be Your Wife](ebook/I'll be Your Wife.pdf) – Jho Hyo Eun (2016)
+10. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) – Najwa (2026)
 
 
 ---
